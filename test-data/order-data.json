@@ -1,0 +1,25 @@
+{
+  "customer": {
+    "firstName": "Test",
+    "lastName": "User",
+    "emailPrefix": "qa.playwright.user",
+    "password": "Password@123"
+  },
+  "billingAddress": {
+    "country": "United States",
+    "city": "New York",
+    "address1": "123 Main Street",
+    "zipPostalCode": "10001",
+    "phoneNumber": "1234567890"
+  },
+  "products": [
+    {
+      "name": "14.1-inch Laptop",
+      "quantity": 1
+    },
+    {
+      "name": "Build your own cheap computer",
+      "quantity": 2
+    }
+  ]
+}
